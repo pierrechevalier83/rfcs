@@ -118,7 +118,7 @@ the [DataChain] to hold identifiers to data that can validate the data itself. T
 to be republished whilst being certain that data was created on the network itself.
 
 To ensure there are no extension attacks possible the data size should also be maintained along
-with any other identifying fields deemed required by the implementation. Additionally an HMAC can
+with any other identifying fields deemed required by the implementation. Additionally an [HMAC](https://en.wikipedia.org/wiki/HMAC) can
 be used to further secure the data in question.
 
 ## [Block]
